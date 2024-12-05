@@ -1,0 +1,36 @@
+     { events: [
+        {
+          id: 5928101,
+          category: 'animal welfare',
+          title: 'Cat Adoption Day',
+          description: 'Find your new feline friend.',
+          location: 'Meow Town',
+          date: 'January 28, 2022',
+          time: '12:00',
+          petsAllowed: true,
+          organizer: 'Kat Laydee'
+        },
+        {
+          id: 8598101,
+          category: 'food',
+          title: 'Gardening Day',
+          description: 'Find your new feline friend.',
+          location: 'Flora City',
+          date: 'March 1, 2022',
+          time: '13:00',
+          petsAllowed: false,
+          organizer: 'Lybe Meh'
+        },
+        {
+          id: 5945601,
+          category: 'animal welfare',
+          title: 'Restaurant guide',
+          description: 'Find your new feline friend.',
+          location: 'Beograd',
+          date: 'January 12, 2024',
+          time: '14:00',
+          petsAllowed: true,
+          organizer: 'Citus Codes'
+        },
+      ]
+     }
